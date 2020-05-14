@@ -1,0 +1,29 @@
+h1 {
+    margin: 0;
+    padding: 10;
+    color: red;
+ 
+}
+
+p{
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+
+div {
+    /* todos los márgenes 5em */
+    margin: 5em;
+}
+
+.cuadro {
+    /* márgenes superior e inferior 2em,
+    márgenes izquierdo y derecho 4em */
+margin: margin: 2em 4em;
+}
+            .cuadro2 {
+            /* margen superior 1em,
+            right margin 2em,
+            bottom margin 3em,
+            left margin 4em */
+            margin: 1em 2em 3em 4em;
+            }
